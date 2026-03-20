@@ -2,7 +2,7 @@
 
 🎓 Education: High School Integrated Computer Technician Program (Instituto Federal Goiano - Campus Posse).<br>
 💼 Software Engineering Undergraduate at Universidade Católica de Brasília (UCB) | Full-Stack Developer | Expected graduation: 2030<br>
-🌱 Currently focused on: Front-end (HTML, CSS, Node.js), Back-end (PHP, Python), SQL, Firebase, Microservices.<br>
+🌱 Currently focused on: Front-end (HTML, CSS, Node.js, Angular), Back-end (PHP, Python, Java), SQL, Firebase, Microservices.<br>
 📘 International English Certification.<br>
 🖥️ Check out my portfolio at [My Portfolio](https://matias-dev-48ob.vercel.app/)<br>
 ✉️ Reach me at devmatiasz@gmail.com<br>
