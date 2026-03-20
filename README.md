@@ -63,6 +63,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50"/>
   </a>
 
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+         alt="MySQL" width="50" height="50"/>
+  </a>
+
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
